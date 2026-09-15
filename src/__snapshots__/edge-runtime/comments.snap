@@ -5,11 +5,11 @@ exports[`unit:comments > should be extension 1`] = `
   "source": {
     "35": {
       "continuation": {
-        "tokenize": [Function tokenizeYamlCommentContinuation],
+        "tokenize": [Function tokenizeLineCommentContinuation],
       },
-      "exit": [Function exitYamlComment],
+      "exit": [Function exitLineComment],
       "name": "comment:yaml",
-      "tokenize": [Function tokenizeYamlComment],
+      "tokenize": [Function tokenizeLineComment],
     },
   },
 }

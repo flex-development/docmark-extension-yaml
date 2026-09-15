@@ -3,10 +3,10 @@
 exports[`unit:comment > should be named comment construct 1`] = `
 {
   "continuation": {
-    "tokenize": [Function tokenizeYamlCommentContinuation],
+    "tokenize": [Function tokenizeLineCommentContinuation],
   },
-  "exit": [Function exitYamlComment],
+  "exit": [Function exitLineComment],
   "name": "comment:yaml",
-  "tokenize": [Function tokenizeYamlComment],
+  "tokenize": [Function tokenizeLineComment],
 }
 `;
