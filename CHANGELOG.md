@@ -1,3 +1,14 @@
+## [1.0.0-alpha.5](https://github.com/flex-development/docmark-extension-yaml/compare/1.0.0-alpha.4...1.0.0-alpha.5) (2026-09-17)
+
+### :package: Build
+
+- [[`31fa9cd`](https://github.com/flex-development/docmark-extension-yaml/commit/31fa9cdadebc8d265d9eb5a88e135343a1fc9175)] **deps-dev:** Bump cspell from 10.3.0 to 10.3.1 ([#28](https://github.com/flex-development/docmark-extension-yaml/issues/28))
+- [[`fc73eb4`](https://github.com/flex-development/docmark-extension-yaml/commit/fc73eb4efacc969956b375feec636956f5d1578f)] **deps:** bump the docmark group with 1 update
+
+### :robot: Continuous Integration
+
+- [[`3b207c2`](https://github.com/flex-development/docmark-extension-yaml/commit/3b207c2b015d9afa97dc4c4c77b9a6687659b1f6)] **deps:** Bump dprint/check from 2.4 to 2.5 ([#15](https://github.com/flex-development/docmark-extension-yaml/issues/15))
+
 ## [1.0.0-alpha.4](https://github.com/flex-development/docmark-extension-yaml/compare/1.0.0-alpha.3...1.0.0-alpha.4) (2026-09-15)
 
 ### :package: Build
@@ -36,6 +47,7 @@
 ### :mechanical_arm: Refactors
 
 - [[`53ed60f`](https://github.com/flex-development/docmark-extension-yaml/commit/53ed60f03795e0ccd0dc2c05fa8b6cda46f81ff0)] rename project
+
 
 
 
