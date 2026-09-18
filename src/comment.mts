@@ -4,22 +4,19 @@
  */
 
 import { factoryLineComment } from '@flex-development/docmark-factory-line'
-import { codes, lang, tt } from '@flex-development/docmark-util-symbol'
-import type {
-  ContinuableConstruct,
-  NamedConstruct
-} from '@flex-development/docmark-util-types'
+import { codes } from '@flex-development/docmark-util-symbol'
+import type { ContinuableConstruct } from '@flex-development/docmark-util-types'
 
 /**
  * The YAML comment construct.
  *
  * This construct is expected to run at the `source` content level.
  *
- * @const {ContinuableConstruct & NamedConstruct} comment
+ * @see {@linkcode ContinuableConstruct}
+ *
+ * @const {ContinuableConstruct} comment
  */
-const comment: ContinuableConstruct & NamedConstruct = factoryLineComment({
-  construct: { name: `${tt.comment}:${lang.yaml}` },
-  fields: { lang: lang.yaml },
+const comment: ContinuableConstruct = factoryLineComment({
   markers: { code: codes.numberSign }
 })
 

@@ -1,0 +1,462 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`integration:comments > should parse yaml comments 1`] = `
+[
+  [
+    "enter",
+    {
+      "end": {
+        "_bufferIndex": -1,
+        "_index": 2,
+        "column": 1,
+        "line": 2,
+        "offset": 43,
+      },
+      "kind": "line",
+      "start": {
+        "_bufferIndex": 0,
+        "_index": 0,
+        "column": 1,
+        "line": 1,
+        "offset": 0,
+      },
+      "type": "comment",
+    },
+  ],
+  [
+    "enter",
+    {
+      "end": {
+        "_bufferIndex": 2,
+        "_index": 0,
+        "column": 3,
+        "line": 1,
+        "offset": 2,
+      },
+      "start": {
+        "_bufferIndex": 0,
+        "_index": 0,
+        "column": 1,
+        "line": 1,
+        "offset": 0,
+      },
+      "type": "commentLinePrefix",
+    },
+  ],
+  [
+    "enter",
+    {
+      "end": {
+        "_bufferIndex": 1,
+        "_index": 0,
+        "column": 2,
+        "line": 1,
+        "offset": 1,
+      },
+      "start": {
+        "_bufferIndex": 0,
+        "_index": 0,
+        "column": 1,
+        "line": 1,
+        "offset": 0,
+      },
+      "type": "commentMarker",
+      "value": "#",
+    },
+  ],
+  [
+    "exit",
+    {
+      "end": {
+        "_bufferIndex": 1,
+        "_index": 0,
+        "column": 2,
+        "line": 1,
+        "offset": 1,
+      },
+      "start": {
+        "_bufferIndex": 0,
+        "_index": 0,
+        "column": 1,
+        "line": 1,
+        "offset": 0,
+      },
+      "type": "commentMarker",
+      "value": "#",
+    },
+  ],
+  [
+    "enter",
+    {
+      "end": {
+        "_bufferIndex": 2,
+        "_index": 0,
+        "column": 3,
+        "line": 1,
+        "offset": 2,
+      },
+      "start": {
+        "_bufferIndex": 1,
+        "_index": 0,
+        "column": 2,
+        "line": 1,
+        "offset": 1,
+      },
+      "type": "commentPadding",
+      "value": " ",
+    },
+  ],
+  [
+    "exit",
+    {
+      "end": {
+        "_bufferIndex": 2,
+        "_index": 0,
+        "column": 3,
+        "line": 1,
+        "offset": 2,
+      },
+      "start": {
+        "_bufferIndex": 1,
+        "_index": 0,
+        "column": 2,
+        "line": 1,
+        "offset": 1,
+      },
+      "type": "commentPadding",
+      "value": " ",
+    },
+  ],
+  [
+    "exit",
+    {
+      "end": {
+        "_bufferIndex": 2,
+        "_index": 0,
+        "column": 3,
+        "line": 1,
+        "offset": 2,
+      },
+      "start": {
+        "_bufferIndex": 0,
+        "_index": 0,
+        "column": 1,
+        "line": 1,
+        "offset": 0,
+      },
+      "type": "commentLinePrefix",
+    },
+  ],
+  [
+    "enter",
+    {
+      "_container": true,
+      "_region": true,
+      "end": {
+        "_bufferIndex": -1,
+        "_index": 1,
+        "column": 43,
+        "line": 1,
+        "offset": 42,
+      },
+      "start": {
+        "_bufferIndex": 0,
+        "_index": 0,
+        "column": 3,
+        "line": 1,
+        "offset": 2,
+      },
+      "type": "summary",
+    },
+  ],
+  [
+    "enter",
+    {
+      "end": {
+        "_bufferIndex": 0,
+        "_index": 0,
+        "column": 3,
+        "line": 1,
+        "offset": 2,
+      },
+      "start": {
+        "_bufferIndex": 0,
+        "_index": 0,
+        "column": 3,
+        "line": 1,
+        "offset": 2,
+      },
+      "type": "summaryMarker",
+    },
+  ],
+  [
+    "exit",
+    {
+      "end": {
+        "_bufferIndex": 0,
+        "_index": 0,
+        "column": 3,
+        "line": 1,
+        "offset": 2,
+      },
+      "start": {
+        "_bufferIndex": 0,
+        "_index": 0,
+        "column": 3,
+        "line": 1,
+        "offset": 2,
+      },
+      "type": "summaryMarker",
+    },
+  ],
+  [
+    "enter",
+    {
+      "end": {
+        "_bufferIndex": -1,
+        "_index": 1,
+        "column": 43,
+        "line": 1,
+        "offset": 42,
+      },
+      "start": {
+        "_bufferIndex": 0,
+        "_index": 0,
+        "column": 3,
+        "line": 1,
+        "offset": 2,
+      },
+      "type": "content",
+    },
+  ],
+  [
+    "enter",
+    {
+      "end": {
+        "_bufferIndex": -1,
+        "_index": 1,
+        "column": 43,
+        "line": 1,
+        "offset": 42,
+      },
+      "start": {
+        "_bufferIndex": 0,
+        "_index": 0,
+        "column": 3,
+        "line": 1,
+        "offset": 2,
+      },
+      "type": "paragraph",
+    },
+  ],
+  [
+    "enter",
+    {
+      "end": {
+        "_bufferIndex": -1,
+        "_index": 1,
+        "column": 43,
+        "line": 1,
+        "offset": 42,
+      },
+      "start": {
+        "_bufferIndex": 0,
+        "_index": 0,
+        "column": 3,
+        "line": 1,
+        "offset": 2,
+      },
+      "type": "data",
+      "value": "https://yarnpkg.com/configuration/yarnrc",
+    },
+  ],
+  [
+    "exit",
+    {
+      "end": {
+        "_bufferIndex": -1,
+        "_index": 1,
+        "column": 43,
+        "line": 1,
+        "offset": 42,
+      },
+      "start": {
+        "_bufferIndex": 0,
+        "_index": 0,
+        "column": 3,
+        "line": 1,
+        "offset": 2,
+      },
+      "type": "data",
+      "value": "https://yarnpkg.com/configuration/yarnrc",
+    },
+  ],
+  [
+    "exit",
+    {
+      "end": {
+        "_bufferIndex": -1,
+        "_index": 1,
+        "column": 43,
+        "line": 1,
+        "offset": 42,
+      },
+      "start": {
+        "_bufferIndex": 0,
+        "_index": 0,
+        "column": 3,
+        "line": 1,
+        "offset": 2,
+      },
+      "type": "paragraph",
+    },
+  ],
+  [
+    "exit",
+    {
+      "end": {
+        "_bufferIndex": -1,
+        "_index": 1,
+        "column": 43,
+        "line": 1,
+        "offset": 42,
+      },
+      "start": {
+        "_bufferIndex": 0,
+        "_index": 0,
+        "column": 3,
+        "line": 1,
+        "offset": 2,
+      },
+      "type": "content",
+    },
+  ],
+  [
+    "exit",
+    {
+      "_container": true,
+      "_region": true,
+      "end": {
+        "_bufferIndex": -1,
+        "_index": 1,
+        "column": 43,
+        "line": 1,
+        "offset": 42,
+      },
+      "start": {
+        "_bufferIndex": 0,
+        "_index": 0,
+        "column": 3,
+        "line": 1,
+        "offset": 2,
+      },
+      "type": "summary",
+    },
+  ],
+  [
+    "enter",
+    {
+      "end": {
+        "_bufferIndex": -1,
+        "_index": 2,
+        "column": 1,
+        "line": 2,
+        "offset": 43,
+      },
+      "start": {
+        "_bufferIndex": -1,
+        "_index": 1,
+        "column": 43,
+        "line": 1,
+        "offset": 42,
+      },
+      "type": "lineEnding",
+      "value": "
+",
+    },
+  ],
+  [
+    "exit",
+    {
+      "end": {
+        "_bufferIndex": -1,
+        "_index": 2,
+        "column": 1,
+        "line": 2,
+        "offset": 43,
+      },
+      "start": {
+        "_bufferIndex": -1,
+        "_index": 1,
+        "column": 43,
+        "line": 1,
+        "offset": 42,
+      },
+      "type": "lineEnding",
+      "value": "
+",
+    },
+  ],
+  [
+    "exit",
+    {
+      "end": {
+        "_bufferIndex": -1,
+        "_index": 2,
+        "column": 1,
+        "line": 2,
+        "offset": 43,
+      },
+      "kind": "line",
+      "start": {
+        "_bufferIndex": 0,
+        "_index": 0,
+        "column": 1,
+        "line": 1,
+        "offset": 0,
+      },
+      "type": "comment",
+    },
+  ],
+  [
+    "enter",
+    {
+      "end": {
+        "_bufferIndex": -1,
+        "_index": 3,
+        "column": 1,
+        "line": 2,
+        "offset": 43,
+      },
+      "start": {
+        "_bufferIndex": -1,
+        "_index": 2,
+        "column": 1,
+        "line": 2,
+        "offset": 43,
+      },
+      "type": "eoc",
+    },
+  ],
+  [
+    "exit",
+    {
+      "end": {
+        "_bufferIndex": -1,
+        "_index": 3,
+        "column": 1,
+        "line": 2,
+        "offset": 43,
+      },
+      "start": {
+        "_bufferIndex": -1,
+        "_index": 2,
+        "column": 1,
+        "line": 2,
+        "offset": 43,
+      },
+      "type": "eoc",
+    },
+  ],
+]
+`;
