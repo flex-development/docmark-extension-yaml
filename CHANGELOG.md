@@ -1,3 +1,22 @@
+## [1.0.0-alpha.6](https://github.com/flex-development/docmark-extension-yaml/compare/1.0.0-alpha.5...1.0.0-alpha.6) (2026-09-18)
+
+### :package: Build
+
+- [[`9adf0be`](https://github.com/flex-development/docmark-extension-yaml/commit/9adf0beec0462aa9870c47f9ead3a5f5a8a76fb6)] **deps-dev:** Bump cspell from 10.3.1 to 10.3.2 ([#34](https://github.com/flex-development/docmark-extension-yaml/issues/34))
+- [[`d2d9996`](https://github.com/flex-development/docmark-extension-yaml/commit/d2d999650f5f50ea0e3a54c5b9f24062017ea41b)] **deps-dev:** Bump rollup from 4.63.2 to 4.63.3 ([#32](https://github.com/flex-development/docmark-extension-yaml/issues/32))
+- [[`cc6938e`](https://github.com/flex-development/docmark-extension-yaml/commit/cc6938e31b7b10e7106998814a3abb39098e6c3e)] **deps-dev:** Bump the vitest group across 1 directory with 3 updates ([#33](https://github.com/flex-development/docmark-extension-yaml/issues/33))
+- [[`38cca7e`](https://github.com/flex-development/docmark-extension-yaml/commit/38cca7e9dc93d3ed532759d76daed4867b57c2a0)] **deps:** bump the docmark group with 3 updates
+
+### :robot: Continuous Integration
+
+- [[`f4bf4ba`](https://github.com/flex-development/docmark-extension-yaml/commit/f4bf4ba447a11ab8a1fbb17f9f4af8b8f0a870e2)] **deps:** Bump codecov/codecov-action from 7.0.0 to 7.1.0 ([#31](https://github.com/flex-development/docmark-extension-yaml/issues/31))
+- [[`328ca6a`](https://github.com/flex-development/docmark-extension-yaml/commit/328ca6ade54be6928d9ca72ab6ddf3cdc7004178)] **workflows:** [`ci`] continue on bun canary setup failure
+- [[`0d7b640`](https://github.com/flex-development/docmark-extension-yaml/commit/0d7b640de40d3ae2149b03a0d8b50f42bb4da8a2)] **workflows:** use `client-id` to create bot token
+
+### :house_with_garden: Housekeeping
+
+- [[`501c750`](https://github.com/flex-development/docmark-extension-yaml/commit/501c750a3850000bf892659e84cd4558828fbb94)] **github:** add commit scopes `construct` and `extension`
+
 ## [1.0.0-alpha.5](https://github.com/flex-development/docmark-extension-yaml/compare/1.0.0-alpha.4...1.0.0-alpha.5) (2026-09-17)
 
 ### :package: Build
@@ -47,6 +66,7 @@
 ### :mechanical_arm: Refactors
 
 - [[`53ed60f`](https://github.com/flex-development/docmark-extension-yaml/commit/53ed60f03795e0ccd0dc2c05fa8b6cda46f81ff0)] rename project
+
 
 
 
