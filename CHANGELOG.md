@@ -1,3 +1,13 @@
+## [1.0.0-alpha.9](https://github.com/flex-development/docmark-extension-yaml/compare/1.0.0-alpha.8...1.0.0-alpha.9) (2026-09-22)
+
+### :package: Build
+
+- [[`fe61dc1`](https://github.com/flex-development/docmark-extension-yaml/commit/fe61dc19f9a53da0ca1100da89c4d490ae545c27)] **deps:** bump the docmark group with 1 update
+
+### :robot: Continuous Integration
+
+- [[`f11990a`](https://github.com/flex-development/docmark-extension-yaml/commit/f11990abab2b84684869e7d27a294978762d20cb)] **deps:** Bump codecov/codecov-action from 7.1.0 to 7.1.1 ([#42](https://github.com/flex-development/docmark-extension-yaml/issues/42))
+
 ## [1.0.0-alpha.8](https://github.com/flex-development/docmark-extension-yaml/compare/1.0.0-alpha.7...1.0.0-alpha.8) (2026-09-21)
 
 ### :package: Build
@@ -78,6 +88,7 @@
 ### :mechanical_arm: Refactors
 
 - [[`53ed60f`](https://github.com/flex-development/docmark-extension-yaml/commit/53ed60f03795e0ccd0dc2c05fa8b6cda46f81ff0)] rename project
+
 
 
 
