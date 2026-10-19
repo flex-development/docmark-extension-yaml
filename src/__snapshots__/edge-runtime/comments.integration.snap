@@ -152,7 +152,6 @@ exports[`integration:comments > should parse yaml comments 1`] = `
   [
     "enter",
     {
-      "_container": true,
       "_region": true,
       "end": {
         "_bufferIndex": -1,
@@ -169,6 +168,7 @@ exports[`integration:comments > should parse yaml comments 1`] = `
         "offset": 2,
       },
       "type": "summary",
+      "value": "https://yarnpkg.com/configuration/yarnrc",
     },
   ],
   [
@@ -336,7 +336,6 @@ exports[`integration:comments > should parse yaml comments 1`] = `
   [
     "exit",
     {
-      "_container": true,
       "_region": true,
       "end": {
         "_bufferIndex": -1,
@@ -353,6 +352,7 @@ exports[`integration:comments > should parse yaml comments 1`] = `
         "offset": 2,
       },
       "type": "summary",
+      "value": "https://yarnpkg.com/configuration/yarnrc",
     },
   ],
   [
